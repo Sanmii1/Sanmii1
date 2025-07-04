@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanmii1
-- 👀 I’m interested in AI Engineer
+- 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Machine Learning
 
 <div style="display: block;">
