@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanmii1
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently Software Engineer
 
 <div style="display: block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
